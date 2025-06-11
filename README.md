@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Hey,%20I'm%20ShaikhAbubakar!&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 <!-- Bio -->
-<h2 align="center">:male-technologist: AI Programmer @ FDES Technologies Pvt. Ltd.</h2>
+<h2 align="center"> AI Programmer @ FDES Technologies Pvt. Ltd.</h2>
 <h3 align="center">A Passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on **RAG Application**
