@@ -27,7 +27,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 ---
-### :mailbox: Connect With Me
+### Connect With Me
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -38,15 +38,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8f94fb&height=120&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
 
 
 Message Shaikh Abubakar
