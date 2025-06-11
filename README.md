@@ -1,6 +1,6 @@
 # 💻 Shaikh Abubakar
 
-**AI Engineer | Python Developer | RAG Systems Architect**
+**| Data Scientist | AI Engineer | Python Developer | RAG Systems Architect**
 
 Welcome to my GitHub! I'm passionate about building intelligent systems with large language models, designing high-performance Retrieval-Augmented Generation (RAG) pipelines, and solving real-world problems through code and innovation.
 
