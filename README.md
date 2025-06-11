@@ -40,9 +40,6 @@
 </p>
 
 
-Message Shaikh Abubakar
-
-
 
 
 
