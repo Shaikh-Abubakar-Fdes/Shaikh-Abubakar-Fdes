@@ -4,18 +4,6 @@
 </p>
 <!-- Bio -->
 <h2 align="center">:male-technologist: AI Programmer @ FDES Technologies Pvt. Ltd.</h2>
-<p align="center">
-  Passionate about building intelligent systems, deploying scalable RAG apps, and pushing the boundaries of AI with practical solutions.
-</p>
----
-### :brain: About Me
-- :telescope: Currently building: **RAG-based AI Assistants** (LangChain | FAISS | Streamlit | Gemini Pro)
-- :briefcase: Professionally working on: Industrial AI, Smart Document Parsing, LLMOps
-- :bulb: Exploring: Agentic RAG | Multimodal AI | Open Source Projects
-- :sparkles: Tools I love: `Python`, `LangChain`, `Streamlit`, `Google GenAI`, `Snowflake`, `Docker`, `FastAPI`
-- :jigsaw: Hobby Projects: AI chatbots, creative AI art, and code automation
----
-<h1 align="center">Hi 👋, I'm ShaikhAbubakar</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on **RAG Application**
