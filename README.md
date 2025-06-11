@@ -52,9 +52,8 @@ Welcome to my GitHub! I'm passionate about building intelligent systems with lar
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/shaikh-abubakar-a76524315))
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
