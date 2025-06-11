@@ -1,60 +1,61 @@
-# 💻 Shaikh Abubakar
-
-**| Data Scientist | AI Engineer | Python Developer | RAG Systems Architect**
-
-Welcome to my GitHub! I'm passionate about building intelligent systems with large language models, designing high-performance Retrieval-Augmented Generation (RAG) pipelines, and solving real-world problems through code and innovation.
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Hey,%20I'm%20Atharva!&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
+<!-- Bio -->
+<h2 align="center">:male-technologist: AI Programmer @ FDES Technologies Pvt. Ltd.</h2>
+<p align="center">
+  Passionate about building intelligent systems, deploying scalable RAG apps, and pushing the boundaries of AI with practical solutions.
+</p>
 ---
-
-## 🚀 About Me
-
-- 🧠 I work with **LLMs** like GPT, Gemini, and LLaMA.
-- 🔍 Building advanced **RAG applications** using multi-retriever setups (BM25 + FAISS).
-- 📚 Experienced in **LangChain**, **Streamlit**, **FAISS**, and **embedding models**.
-- 🛠️ Skilled in **Python**, **FastAPI**, **Docker**, and **cloud deployment**.
-- 🧪 Interested in layout-aware document parsing, structured prompting, and scalable LLM architectures.
-
+### :brain: About Me
+- :telescope: Currently building: **RAG-based AI Assistants** (LangChain | FAISS | Streamlit | Gemini Pro)
+- :briefcase: Professionally working on: Industrial AI, Smart Document Parsing, LLMOps
+- :bulb: Exploring: Agentic RAG | Multimodal AI | Open Source Projects
+- :sparkles: Tools I love: `Python`, `LangChain`, `Streamlit`, `Google GenAI`, `Snowflake`, `Docker`, `FastAPI`
+- :jigsaw: Hobby Projects: AI chatbots, creative AI art, and code automation
 ---
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=data:image/svg+xml;base64,...)
-![FAISS](https://img.shields.io/badge/-FAISS-000000?logo=faiss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white)
-
+### :rocket: Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,git,vscode,linux,github,googlecloud,figma" />
+</div>
 ---
-
-## 📌 Featured Projects
-
-### 🔎 RAG App with Gemini + FAISS + BM25
-> A powerful multi-retriever RAG application with table-aware chunking and structured answering.
-
-- Embedding model: Google Gemini
-- Frontend: Streamlit
-- Backend: Python + LangChain
-- Features: Layout-aware parsing, metadata tagging, and accurate prompt formatting.
-
-### 🧱 LLaMA 3 with Ollama
-> Running LLaMA 3 models locally with Ollama and integrating them into RAG pipelines.
-
+### :bar_chart: GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
 ---
-
-## 📈 GitHub Stats
-
-![Shaikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react)
-
+### :mailbox: Connect With Me
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=react&logoColor=white"/></a>
+</p>
 ---
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8f94fb&height=120&section=footer"/>
+</p>
 
-## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/shaikh-abubakar-a76524315))
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
 
-⭐ _Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate._
+
+
+
+
+
+
+
+Message Shaikh Abubakar
+
+
+
+
+
+
+
+
+
