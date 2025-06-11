@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Hey,%20I'm%20Shaikh Abubakar!&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Hey,%20I'm%20ShaikhAbubakar!&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 <!-- Bio -->
 <h2 align="center">:male-technologist: AI Programmer @ FDES Technologies Pvt. Ltd.</h2>
